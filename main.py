@@ -1,5 +1,5 @@
 import requests
- def main():
+def main():
     url = "https://catfact.ninja/fact"
     response = requests.get(url)
     
